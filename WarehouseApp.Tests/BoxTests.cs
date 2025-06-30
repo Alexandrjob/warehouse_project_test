@@ -1,7 +1,3 @@
-using System;
-using Xunit;
-using WarehouseApp;
-
 namespace WarehouseApp.Tests
 {
     public class BoxTests

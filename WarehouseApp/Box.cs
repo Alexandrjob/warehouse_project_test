@@ -1,5 +1,3 @@
-using System;
-
 namespace WarehouseApp
 {
     public class Box : StorageItem

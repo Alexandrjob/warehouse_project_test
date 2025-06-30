@@ -1,8 +1,3 @@
-using System;
-using System.Linq;
-using Xunit;
-using WarehouseApp;
-
 namespace WarehouseApp.Tests
 {
     public class PalletTests
